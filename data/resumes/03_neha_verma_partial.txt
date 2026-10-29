@@ -1,0 +1,25 @@
+
+Neha Verma
+Email: neha.verma@example.com
+Phone: 9876543212
+
+Professional Summary:
+Junior Data Scientist with 1 year of experience in data analysis and introductory machine learning projects.
+
+Technical Skills:
+Python, Machine Learning, pandas, NumPy, scikit-learn, SQL, Data Cleaning, Data Visualization, Git, Basic NLP, Text Classification.
+
+Work Experience:
+Junior Data Analyst at InsightWorks, 2025–2026.
+- Cleaned datasets and performed exploratory data analysis.
+- Built basic classification models using scikit-learn.
+- Prepared reports and visualizations for business teams.
+- Assisted with text classification experiments.
+
+Projects:
+- Spam Message Detection using Python.
+- Customer Churn Prediction using Machine Learning.
+
+Education:
+B.Sc. in Statistics.
+  

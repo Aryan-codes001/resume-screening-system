@@ -1,0 +1,24 @@
+
+Sana Khan
+Email: sana.khan@example.com
+Phone: 9876543214
+
+Professional Summary:
+Recent Computer Science graduate interested in Artificial Intelligence and Natural Language Processing.
+
+Technical Skills:
+Python, Machine Learning, NLP Basics, scikit-learn, pandas, NumPy, SQL, Git, Data Preprocessing, Classification, Statistics.
+
+Education:
+B.Tech in Computer Science and Engineering, completed in 2025.
+
+Projects:
+- News Category Classification using Python and scikit-learn.
+- Text Sentiment Analysis using a basic machine learning model.
+- Exploratory Data Analysis on customer reviews.
+
+Experience:
+Six-month academic internship working with structured datasets and introductory machine learning models.
+
+Areas to Improve:
+Limited experience with deep learning, transformer models, and production deployment.

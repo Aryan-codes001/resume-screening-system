@@ -1,0 +1,25 @@
+
+Kabir Singh
+Email: kabir.singh@example.com
+Phone: 9876543213
+
+Professional Summary:
+Software Developer with 1.5 years of experience in Python applications, backend development, and introductory AI projects.
+
+Technical Skills:
+Python, Java, SQL, Git, REST APIs, Flask, FastAPI, pandas, NumPy, Machine Learning Basics, Data Structures, Algorithms.
+
+Work Experience:
+Software Developer at CodeCraft Systems, 2024–2026.
+- Developed Python backend services and REST APIs.
+- Integrated SQL databases with web applications.
+- Created scripts for data cleaning and automation.
+- Contributed to a basic machine learning proof of concept.
+
+Projects:
+- Job Portal API using Python and Flask.
+- Basic Movie Recommendation System.
+
+Education:
+B.Tech in Information Technology.
+  

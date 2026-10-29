@@ -1,0 +1,28 @@
+
+Imran Ali
+Email: imran.ali@example.com
+Phone: 9876543217
+
+Professional Summary:
+Data Analyst with 2 years of experience in Python-based analytics and introductory machine learning. Interested in transitioning into NLP engineering.
+
+Technical Skills:
+Python, pandas, NumPy, scikit-learn, SQL, Machine Learning, Git, Data Visualization, Text Processing Basics, Flask, Statistics.
+
+Work Experience:
+Data Analyst at AnalyticsHub, 2024–2026.
+- Automated data cleaning and reporting using Python.
+- Developed basic classification and regression models.
+- Used SQL to extract and analyze business data.
+- Created dashboards and documented analytical results.
+
+Projects:
+- Customer Review Analysis using Python.
+- Text Classification Prototype using TF-IDF and scikit-learn.
+- Sales Forecasting with Regression.
+
+Education:
+B.Sc. in Computer Science.
+
+Areas to Improve:
+Limited hands-on experience with transformers, PyTorch, sentence embeddings, and deep learning deployment.

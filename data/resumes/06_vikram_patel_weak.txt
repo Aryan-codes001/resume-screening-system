@@ -1,0 +1,23 @@
+
+Vikram Patel
+Email: vikram.patel@example.com
+Phone: 9876543215
+
+Professional Summary:
+IT Support Technician with 2 years of experience maintaining computer systems and helping users troubleshoot technical issues.
+
+Technical Skills:
+Windows, Linux Basics, Hardware Troubleshooting, Networking Basics, Microsoft Office, Technical Support, Ticket Management.
+
+Work Experience:
+IT Support Technician at QuickFix Services, 2024–2026.
+- Resolved hardware and software issues.
+- Installed operating systems and configured workstations.
+- Assisted employees with account and network problems.
+- Maintained technical support documentation.
+
+Education:
+Diploma in Information Technology.
+
+Projects:
+- Computer Lab Maintenance and Inventory Tracking.

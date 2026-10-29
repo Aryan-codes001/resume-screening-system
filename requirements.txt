@@ -1,0 +1,9 @@
+
+sentence-transformers
+scikit-learn
+pandas
+matplotlib
+pypdf
+python-docx
+jupyter
+ipykernel

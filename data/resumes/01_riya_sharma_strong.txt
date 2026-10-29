@@ -1,0 +1,25 @@
+
+Riya Sharma
+Email: riya.sharma@example.com
+Phone: 9876543210
+
+Professional Summary:
+Machine Learning Engineer with 2.5 years of experience in NLP, text classification, and transformer-based applications.
+
+Technical Skills:
+Python, Machine Learning, Deep Learning, NLP, Transformers, PyTorch, scikit-learn, pandas, NumPy, Text Preprocessing, Sentence Embeddings, Model Evaluation, Git, Hugging Face, FastAPI, SQL.
+
+Work Experience:
+Machine Learning Engineer at TechNova Solutions, 2024–2026.
+- Developed NLP pipelines for text classification and document analysis.
+- Used transformer models and sentence embeddings for semantic search.
+- Evaluated models using precision, recall, F1-score, and confusion matrices.
+- Built REST APIs for machine learning inference.
+
+Projects:
+- Resume Semantic Matching System using Sentence Transformers.
+- Customer Feedback Classification using Python and PyTorch.
+
+Education:
+B.Tech in Computer Science and Engineering.
+  

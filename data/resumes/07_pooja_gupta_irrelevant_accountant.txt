@@ -1,0 +1,24 @@
+
+Pooja Gupta
+Email: pooja.gupta@example.com
+Phone: 9876543216
+
+Professional Summary:
+Accountant with 4 years of experience in financial reporting, bookkeeping, payroll, and tax documentation.
+
+Technical Skills:
+Accounting, Tally ERP, GST, Financial Reporting, Payroll Processing, Accounts Payable, Accounts Receivable, Excel, Auditing, Budget Preparation.
+
+Work Experience:
+Senior Accountant at FinServe Associates, 2022–2026.
+- Prepared monthly financial statements.
+- Managed invoices, payments, and reconciliations.
+- Maintained GST records and supported tax filings.
+- Prepared budget summaries and audit documentation.
+
+Education:
+Bachelor of Commerce.
+
+Projects:
+- Monthly Financial Reporting Automation using Excel.
+- Accounts Reconciliation and Expense Tracking.

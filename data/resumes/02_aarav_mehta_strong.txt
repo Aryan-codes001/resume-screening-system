@@ -1,0 +1,25 @@
+
+Aarav Mehta
+Email: aarav.mehta@example.com
+Phone: 9876543211
+
+Professional Summary:
+AI and Machine Learning Engineer with 2 years of practical experience building predictive models and NLP applications.
+
+Technical Skills:
+Python, NLP, Machine Learning, Deep Learning, TensorFlow, PyTorch, Transformers, scikit-learn, pandas, NumPy, Text Preprocessing, Sentence Embeddings, Model Evaluation, Git, Hugging Face, Docker.
+
+Work Experience:
+AI Engineer at DataBridge Technologies, 2024–2026.
+- Created text preprocessing and feature extraction pipelines.
+- Fine-tuned transformer models for sentiment analysis.
+- Compared models using validation datasets and performance metrics.
+- Used Git for version control and Docker for development environments.
+
+Projects:
+- Sentiment Analysis using BERT.
+- Semantic Document Search using Sentence Embeddings.
+
+Education:
+B.Tech in Artificial Intelligence and Data Science.
+  

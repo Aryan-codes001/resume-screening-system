@@ -1,0 +1,22 @@
+
+Job Title: Machine Learning Engineer (NLP)
+
+We are looking for an entry-level to early-career Machine Learning Engineer focused on Natural Language Processing.
+
+Responsibilities:
+- Prepare, clean, and preprocess text datasets.
+- Build machine learning and deep learning pipelines.
+- Apply NLP and transformer-based models.
+- Generate sentence embeddings and evaluate model performance.
+- Use Python, pandas, NumPy, and scikit-learn.
+- Work with PyTorch or TensorFlow.
+- Track code changes using Git.
+
+Required Skills:
+Python, Natural Language Processing (NLP), Machine Learning, Deep Learning, Transformers, PyTorch, TensorFlow, scikit-learn, pandas, NumPy, Text Preprocessing, Sentence Embeddings, Model Evaluation, Git.
+
+Preferred Skills:
+Hugging Face, REST APIs, FastAPI, Flask, SQL, Docker, Cloud Deployment.
+
+Experience:
+Around 1–3 years of relevant experience. Strong projects and practical knowledge may also be considered.
